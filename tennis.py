@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Change related to STRY0010065
+# Change for STRY0010039
 
 class TennisGame1:
 
