@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Change for STRY0010047 + 1
+# Change for STRY0010047 + 2
 
 class TennisGame1:
 
