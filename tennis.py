@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 
-# Testing comment change
 
 class TennisGame1:
 
