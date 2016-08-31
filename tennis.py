@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Change for STRY0010035
+# Change for STRY0010035 - minor fix
 
 class TennisGame1:
 
