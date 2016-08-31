@@ -49,7 +49,7 @@ test_cases = [
     (6, 5, 'Advantage One', 'One', 'player2'),
     (5, 6, 'Advantage Two', 'player1', 'Two'), 
 
-    # Test fail - STRY0010059
+    # Test pass - STRY0010059
     (0, 0, 'Win for player2', 'player1', 'player2'),
     
     ]
