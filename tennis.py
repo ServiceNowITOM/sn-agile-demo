@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Change for STRY0010035 - minor fix
-# comment here
+# Change for STRY0010041
 
 class TennisGame1:
 
