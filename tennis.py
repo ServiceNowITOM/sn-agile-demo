@@ -1,7 +1,7 @@
 =# -*- coding: utf-8 -*-
 
 # Change for STRY0010065
-# Extra comments, and more
+# Extra comments, and more...
 
 class TennisGame1:
 
