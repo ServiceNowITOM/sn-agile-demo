@@ -1,6 +1,7 @@
-# -*- coding: utf-8 -*-
+=# -*- coding: utf-8 -*-
 
-# Change for STRY0010065, more
+# Change for STRY0010065
+# Extra comments
 
 class TennisGame1:
 
